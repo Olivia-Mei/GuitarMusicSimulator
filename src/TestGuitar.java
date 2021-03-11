@@ -1,9 +1,8 @@
 /* File: TestGuitar.java
  * Author: Olivia-Mei McDowell
  * Date: 11-16-2020
- * Description: This is the TestGuitar class whose 
- * program contains three different Guitar objects
- * that use the Guitar class' methods 
+ * Description: TestGuitar class demos the Guitar class properties
+ * and methods via three different Guitar instances. 
  */
 
 // Import required Java class

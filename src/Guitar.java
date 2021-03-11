@@ -1,13 +1,10 @@
 /* File: Guitar.java
  * Author: Olivia-Mei McDowell
  * Date: 11-16-2020
- * Description: The Guitar.java file outlines the Guitar class,
- * which contains standard guitar instrument properties, 
- * getter methods for all data fields, 
+ * Description: Guitar class encapsulates guitar instrument attributes, 
  * a playGuitar() method that returns a string representation of 
  * 16 randomly selected musical notes of random duration,
- * and a toString() method that displays the name of the guitar,
- * number of strings, length, manufacturer and color in String format.
+ * and a toString() method that returns custom string representation.
  */
 
 // Import required Java classes
